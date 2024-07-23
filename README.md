@@ -1,2 +1,2 @@
 # KIT
-Implementations of several algorithms to solve different combinatorial optmization problems such as Travelling Salesman Problem, Minimum Latency Problem, Branch-and-Bound and others.
+Personal C++ implementations of various combinatorial optimization methods for solving the Traveling Salesman Problem (TSP) and the Minimum Latency Problem (MLP), including Branch-and-Bound, Lagrangian Relaxation, as well as the ILS heuristic.
