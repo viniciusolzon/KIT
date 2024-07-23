@@ -1,0 +1,7 @@
+DATA.D      ->   obj/data.o: src/data.cpp src/data.h
+
+HUNGARIAN.D ->   obj/hungarian.o: src/hungarian.cpp src/hungarian.h src/data.h
+
+MAIN.D      ->   obj/main.o: src/main.cpp src/data.h src/hungarian.h
+
+READDATA.D  ->   obj/readData.o: src/readData.cpp
